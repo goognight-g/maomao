@@ -1,0 +1,27 @@
+p{
+  color: maroon;
+}
+h1,h2 {
+  font-family: Arial ;
+  color  grey;
+h1,h2 {
+  font-family: Arial;
+  color: grey;
+  border-bottom: 1px solid black;
+
+p  {
+  pont-size: 1rem;
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}body{
+	background-color: #a141e1;
+}
+body{
+  background-color: #e2e1e4
+}
+body
+  background-color: #10aec2

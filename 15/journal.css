@@ -1,0 +1,26 @@
+body {
+  font-family: "verdana",Geneve, Arial;
+}
+
+html {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight:normal;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+h1,h2{
+  color: #cc6600;
+  /*font-decoration: underline;*/
+  border-bottom: thin dotted #888888;
+}

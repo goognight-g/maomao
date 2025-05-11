@@ -1,0 +1,40 @@
+.guarantee{
+  background-image: url(images/background.gif);
+}
+
+.guarantee {
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.guarantee{
+  padding-left: 25px;
+  padding-left: 80px;
+}
+.guarantee  {
+  
+  border-color: white;
+  
+  border-width: 1px;
+  
+  border-style: dashed;
+  background-color: #155974;
+  padding: 25px;
+  margin: 30px;
+  line-height: 1.9em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-right: 250PX;
+}
+.elixirs{
+  border-width: thin;
+  border-style: solid;
+  background-color: #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20PX;
+  padding-left: 20px;
+  margin-left: 20px;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+  text-align: center;
+
+}

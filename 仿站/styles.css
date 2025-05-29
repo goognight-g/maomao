@@ -1,0 +1,69 @@
+.custom-img {
+    width: 52%; /* 保留原有宽度设置 */
+    height: auto; /* 让图片浮动到右侧 */
+}
+
+/* 定义一个类用于将内容右移 */
+.move-right {
+    margin-left: 70%; /* 可以根据需要调整这个值 */
+}
+
+/* 定义一个新的类用于缩小图片 */
+.small-img {
+    width: 52%;
+    height: auto;
+}
+
+.two-lines {
+    width: 230px; /* 可以根据实际情况调整宽度 */
+    word-wrap: break-word;
+}
+
+.custom-h5 {
+    font-weight: 420; /* 调细字体，取值范围 100 - 900，数值越小字体越细，400 是正常粗细 */
+    font-size: 1.1em; /* 增大字体大小，1em 是默认大小，可按需调整 */
+}
+
+/* 定义一个新类用于缩小字体 */
+.smaller-text {
+    font-size: 0.95em;/* 你可以根据需求调整这个值，值越小字体越小 */
+}
+
+p, h1, h2, h3, h4, h5, h6, span, a {
+    color: rgb(104, 103, 103); /* 将这些常用文本元素的字体颜色设置为黑色 */
+}
+
+.smaller-and-up {
+    font-size: 0.95em; /* 缩小字体大小，可根据需求调整 */
+    transform: translateY(-20px); /* 向上移动元素，可根据需求调整 */
+    display: inline-block; /* 让 transform 对行内元素生效 */
+}
+
+/* 定义一个新类用于向上移动元素 */
+.move-up {
+    transform: translateY(-20px); /* 向上移动 5px，可根据需求调整数值 */
+    display: inline-block; /* 让 transform 对块级元素生效 */
+}
+
+/* 调整 .u-title 类的字体粗细 */
+.u-title {
+    font-weight: 400; /* 可根据需求调整，取值范围 100 - 900，数值越小字体越细，400 为正常粗细，300 相对较细 */
+}
+
+/* 如果你想更精准控制 span 内的文字，也可以调整 .u-border 类 */
+.u-border {
+    font-weight: 400; 
+}
+
+.u-title {
+    font-size: 1.2em; /* 可根据需求调整字体大小，数值越大字体越大，1em 为默认大小 */
+}
+
+.u-title {
+    margin-top: 5px; /* 可根据实际需求调整这个值 */
+}
+
+.slightly-bold-text {
+    font-weight: 250; /* 或者其他您希望的粗细值，例如 'bold' 或 700 */
+}
+
